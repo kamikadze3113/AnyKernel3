@@ -2,7 +2,7 @@ NAME ?= VanadiumKernel
 
 DATE := $(shell date "+%Y%m%d-%H%M")
 
-CODE := 10-onclite
+CODE := 9.0-onclite
 
 ZIP := $(NAME)-$(CODE)-$(DATE).zip
 
