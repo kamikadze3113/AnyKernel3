@@ -1,8 +1,8 @@
-NAME ?= Cartel
+NAME ?= PlasmaKernel
 
 DATE := $(shell date "+%Y%m%d-%H%M")
 
-CODE := 10.0-onclite
+CODE := Q-onclite
 
 ZIP := $(NAME)-$(CODE)-$(DATE).zip
 
